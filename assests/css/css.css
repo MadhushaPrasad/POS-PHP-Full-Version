@@ -1,0 +1,27 @@
+.headerimage{
+    background-image: url("../img/h1-sl3.jpg");
+}
+
+/*.d-flex button{*/
+    /*margin-top: 1.5em;*/
+    /*margin-right: 0.6em;*/
+    /*margin-bottom: 1.5em;*/
+    /*padding: 0.3em 2.4em;*/
+/*}*/
+
+
+.container-fluid table{
+    margin:0;
+}
+.container-fluid table tr{
+    margin: 0;
+}
+table .btnedit{
+    color: darkgoldenrod;
+    cursor: pointer;
+}
+
+table .btnedelte{
+    color: lightcoral;
+    cursor: pointer;
+}
